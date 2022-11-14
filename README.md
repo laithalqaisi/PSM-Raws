@@ -1,7 +1,7 @@
 # PSM-Raws
 ***This is a copy of an old repo of mine.***
 
-A simple winforms application that reorders the downloaded pages that's shuffled from the pocket shounen magazine or Comic days websites and saves them as png files.
+A simple winforms application that reorders the downloaded pages that's shuffled from the pocket shounen magazine and saves them as png files.
 
 Made for a scan group(at the time) to be able to use HQ raws for manga series and such.
 
@@ -12,7 +12,7 @@ Only works on windows because it's based on winforms but the logic itself is tri
 
 How to use:
 
-1) Open the chapter you want in https://pocket.shonenmagazine.com/ or https://comic-days.com/ to download and press Ctrl+Shift+I to open the inspect tools.
+1) Open the chapter you want in https://pocket.shonenmagazine.com/ to download and press Ctrl+Shift+I to open the inspect tools.
 
 2) Open up the "Application" tab then go to frames > top > Images, and choose the image you want then right click and "save image as".
 
