@@ -1,0 +1,10 @@
+C:\Users\DrivZone\RiderProjects\DycreptMagazinePages\DycreptMagazinePages\bin\Debug\DycreptMagazinePages.exe.config
+C:\Users\DrivZone\RiderProjects\DycreptMagazinePages\DycreptMagazinePages\bin\Debug\DycreptMagazinePages.exe
+C:\Users\DrivZone\RiderProjects\DycreptMagazinePages\DycreptMagazinePages\bin\Debug\DycreptMagazinePages.pdb
+C:\Users\DrivZone\RiderProjects\DycreptMagazinePages\DycreptMagazinePages\obj\Debug\DycreptMagazinePages.csprojAssemblyReference.cache
+C:\Users\DrivZone\RiderProjects\DycreptMagazinePages\DycreptMagazinePages\obj\Debug\DycreptMagazinePages.Properties.Resources.resources
+C:\Users\DrivZone\RiderProjects\DycreptMagazinePages\DycreptMagazinePages\obj\Debug\DycreptMagazinePages.csproj.GenerateResource.cache
+C:\Users\DrivZone\RiderProjects\DycreptMagazinePages\DycreptMagazinePages\obj\Debug\DycreptMagazinePages.csproj.CoreCompileInputs.cache
+C:\Users\DrivZone\RiderProjects\DycreptMagazinePages\DycreptMagazinePages\obj\Debug\DycreptMagazinePages.exe
+C:\Users\DrivZone\RiderProjects\DycreptMagazinePages\DycreptMagazinePages\obj\Debug\DycreptMagazinePages.pdb
+C:\Users\DrivZone\RiderProjects\DycreptMagazinePages\DycreptMagazinePages\obj\Debug\DycreptMagazinePages.Form1.resources
